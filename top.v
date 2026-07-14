@@ -1,5 +1,5 @@
 module top(
     input clk,
-    input rst_n
+    input rst_sync_n
 );
 endmodule
